@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lucca Urso
-- 👀 I’m interested in programming, machine learning, 
-- 🌱 I’m currently learning Java (GUI and Databases) and Python (Machine Learning)
+- 👀 I’m interested in programming, machine learning, data science and API development
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me: email me lgursog13@gmail.com or send me a mensage through LinkedIn
+- 📫 How to reach me: email me lgursog13@gmail.com or send me a mensage through LinkedIn www.linkedin.com/in/lucca-urso
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can do a hand stand for 10 seconds
 
